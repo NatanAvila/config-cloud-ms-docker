@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name: microservices-docker
+microservices-docker:
+  msg: "hellow"
+  default-value: "Mundo"
